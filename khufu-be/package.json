@@ -1,0 +1,17 @@
+{
+  "name": "khufu-be",
+  "version": "0.0.1",
+  "description": "API REST app with nodejs and express to create a tree simulating a pyramid sistem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "cavilarts",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.12.0"
+  }
+}
